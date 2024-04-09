@@ -1,0 +1,21 @@
+
+Los datos son:
+
+Nombre: Rodrigo
+Apellido: De Pol
+------------
+Nombre: Lucas
+Apellido: Beltran
+------------
+Nombre: Pedro
+Apellido: Rabiot
+------------
+Nombre: Juan
+Apellido: Pastor
+------------
+Nombre: Roberto
+Apellido: Garcia
+------------
+Nombre: Nicolás
+Apellido: Largo
+------------
